@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33694
     wikipedia: http://en.wikipedia.org/wiki/J._Rendel_Harris
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29096#Memoranda-Sacra
 gutenberg_issued: '2009-06-10'
 gutenberg_type: Text
 identifiers:
